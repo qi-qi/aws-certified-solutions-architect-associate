@@ -1,7 +1,5 @@
 # AWS Certified Solutions Architect - Associate
-![](https://raw.githubusercontent.com/qi-qi/aws-certified-solutions-architect-associate/master/aws-certified-logo_color-horz_360x60.png)
-
-![](https://raw.githubusercontent.com/qi-qi/aws-certified-solutions-architect-associate/master/solutions-architect-associate-tag_360x32.png)
+![](https://raw.githubusercontent.com/qi-qi/aws-certified-solutions-architect-associate/master/aws-certified-solutions-architect-associate-digital-badge.png)
 
 ## Certificate Number: GPH993JKLJB411WV
 - Certificate Valid Date: 2019.07.10 - 2022.07.10
