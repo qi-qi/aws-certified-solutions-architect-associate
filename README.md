@@ -9,6 +9,6 @@
 - Certificate Valid Date: 2019.07.10 - 2022.07.10
 - Certificate Validation Number: GPH993JKLJB411WV
 - Certificate Validate at: [http://aws.amazon.com/verification](http://aws.amazon.com/verification)
-- Certificate Document: [https://raw.githubusercontent.com/qi-qi/aws-certified-solutions-architect-associate/master/qiqi_aws-certified-solutions-architect-associate_2019-2022.pdf](https://raw.githubusercontent.com/qi-qi/aws-certified-solutions-architect-associate/master/qiqi_aws-certified-solutions-architect-associate_2019-2022.pdf)
+- Certificate Document PDF: [https://raw.githubusercontent.com/qi-qi/aws-certified-solutions-architect-associate/master/qiqi_aws-certified-solutions-architect-associate_2019-2022.pdf](https://raw.githubusercontent.com/qi-qi/aws-certified-solutions-architect-associate/master/qiqi_aws-certified-solutions-architect-associate_2019-2022.pdf)
 
 ![](https://raw.githubusercontent.com/qi-qi/aws-certified-solutions-architect-associate/master/qiqi_aws-certified-solutions-architect-associate_2019-2022.png)
