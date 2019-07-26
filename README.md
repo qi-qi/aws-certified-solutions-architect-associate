@@ -1,5 +1,7 @@
 # AWS Certified Solutions Architect - Associate
-- Certificate Digital Badge: [https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-07-10&ci=AWS00947084](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-07-10&ci=AWS00947084)
+Certificate Digital Badge
+- [https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-07-10&ci=AWS00947084](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-07-10&ci=AWS00947084)
+
 ![](https://raw.githubusercontent.com/qi-qi/aws-certified-solutions-architect-associate/master/aws-certified-solutions-architect-associate-digital-badge.png)
 
 ## Certificate Number: GPH993JKLJB411WV
