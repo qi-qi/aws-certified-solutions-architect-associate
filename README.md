@@ -13,7 +13,7 @@
 ![](https://raw.githubusercontent.com/qi-qi/aws-certified-solutions-architect-associate/master/qiqi_aws-certified-solutions-architect-associate_2019-2022.png)
 
 **Certificate Digital Badge**
-- Certificate Digital Badge Validation at:
+- Certificate Digital Badge Validate at:
   - [https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-07-10&ci=AWS00947084](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-07-10&ci=AWS00947084)
 
 ![](https://raw.githubusercontent.com/qi-qi/aws-certified-solutions-architect-associate/master/aws-certified-solutions-architect-associate-digital-badge.png)
