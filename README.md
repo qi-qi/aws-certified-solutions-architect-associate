@@ -1,4 +1,4 @@
-# AWS Certified Solutions Architect - Associate
+# Amazon AWS Certified Solutions Architect - Associate
 
 ## Certificate Number: GPH993JKLJB411WV
 - Certificate Valid Date: 
